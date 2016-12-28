@@ -1,6 +1,6 @@
 {
   "name": "mysql-engine",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "mysql rpc-proxy",
   "main": "index.js",
   "scripts": {
