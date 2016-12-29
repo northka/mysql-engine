@@ -3,9 +3,9 @@
  */
 const request     = require('./lib/request')
 const parseReqObj = require('./lib/parseReqObj')
-const pool        = require('./lib/pool')
+const poolConfig  = require('./lib/poolConfig')
 module.exports = {
     request,
     parseReqObj,
-    pool
+    poolConfig
 }
